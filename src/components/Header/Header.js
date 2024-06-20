@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css';
 import logo from '../../views/Main/Img/google-meet-logo (1).png'; // Ensure the logo is in the public folder
-import profileIcon from '../../views/Main/Img/IMG_20240511_221507_668.jpg'; // Ensure the profile icon is in the public folder
+import profileIcon from '../../views/Main/Img/teju-Image.jpg'; // Ensure the profile icon is in the public folder
 
 const Header = () => {
     return (
